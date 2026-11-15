@@ -1,0 +1,335 @@
+﻿ProductKey,ProductName,ModelName,ProductLine,Color,ListPrice,ProductSubcategoryKey,Sous-catégorie,Catégorie
+223,AWC Logo Cap,Cycling Cap,S,Multi,8.64,19.0,Casquettes,Vêtements
+224,AWC Logo Cap,Cycling Cap,S,Multi,8.64,19.0,Casquettes,Vêtements
+225,AWC Logo Cap,Cycling Cap,S,Multi,8.99,19.0,Casquettes,Vêtements
+212,"Sport-100 Helmet, Red",Sport-100,S,Red,33.64,31.0,Casques,Accessoires
+213,"Sport-100 Helmet, Red",Sport-100,S,Red,33.64,31.0,Casques,Accessoires
+214,"Sport-100 Helmet, Red",Sport-100,S,Red,34.99,31.0,Casques,Accessoires
+215,"Sport-100 Helmet, Black",Sport-100,S,Black,33.64,31.0,Casques,Accessoires
+216,"Sport-100 Helmet, Black",Sport-100,S,Black,33.64,31.0,Casques,Accessoires
+217,"Sport-100 Helmet, Black",Sport-100,S,Black,34.99,31.0,Casques,Accessoires
+220,"Sport-100 Helmet, Blue",Sport-100,S,Blue,33.64,31.0,Casques,Accessoires
+221,"Sport-100 Helmet, Blue",Sport-100,S,Blue,33.64,31.0,Casques,Accessoires
+222,"Sport-100 Helmet, Blue",Sport-100,S,Blue,34.99,31.0,Casques,Accessoires
+391,LL Fork,LL Fork,,,148.22,10.0,Fourches,Composants
+393,HL Fork,HL Fork,,,229.49,10.0,Fourches,Composants
+394,LL Headset,LL Headset,,,34.2,11.0,Jeux de direction,Composants
+395,ML Headset,ML Headset,,,102.29,11.0,Jeux de direction,Composants
+396,HL Headset,HL Headset,,,124.73,11.0,Jeux de direction,Composants
+397,LL Mountain Handlebars,LL Mountain Handlebars,M,,40.49,4.0,Guidons,Composants
+398,LL Mountain Handlebars,LL Mountain Handlebars,M,,44.54,4.0,Guidons,Composants
+399,ML Mountain Handlebars,ML Mountain Handlebars,M,,56.29,4.0,Guidons,Composants
+400,ML Mountain Handlebars,ML Mountain Handlebars,M,,61.92,4.0,Guidons,Composants
+401,HL Mountain Handlebars,HL Mountain Handlebars,M,,109.34,4.0,Guidons,Composants
+402,HL Mountain Handlebars,HL Mountain Handlebars,M,,120.27,4.0,Guidons,Composants
+403,LL Road Handlebars,LL Road Handlebars,R,,40.49,4.0,Guidons,Composants
+404,LL Road Handlebars,LL Road Handlebars,R,,44.54,4.0,Guidons,Composants
+407,HL Road Handlebars,HL Road Handlebars,R,,109.34,4.0,Guidons,Composants
+408,HL Road Handlebars,HL Road Handlebars,R,,120.27,4.0,Guidons,Composants
+410,LL Mountain Front Wheel,LL Mountain Front Wheel,M,Black,60.75,17.0,Roues,Composants
+411,ML Mountain Front Wheel,ML Mountain Front Wheel,M,Black,209.03,17.0,Roues,Composants
+412,HL Mountain Front Wheel,HL Mountain Front Wheel,M,Black,300.22,17.0,Roues,Composants
+419,LL Mountain Rear Wheel,LL Mountain Rear Wheel,M,Black,87.75,17.0,Roues,Composants
+420,ML Mountain Rear Wheel,ML Mountain Rear Wheel,M,Black,236.03,17.0,Roues,Composants
+421,HL Mountain Rear Wheel,HL Mountain Rear Wheel,M,Black,327.22,17.0,Roues,Composants
+447,Cable Lock,Cable Lock,S,,25.0,34.0,Antivols,Accessoires
+448,Minipump,Minipump,S,,19.99,36.0,Pompes,Accessoires
+477,Water Bottle - 30 oz.,Water Bottle,S,,4.99,28.0,Bidons et porte-bidons,Accessoires
+480,Patch Kit/8 Patches,Patch kit,S,,2.29,37.0,Pneus et chambres,Accessoires
+483,Hitch Rack - 4-Bike,Hitch Rack - 4-Bike,S,,120.0,26.0,Porte-vélos,Accessoires
+484,Bike Wash - Dissolver,Bike Wash,S,,7.95,29.0,Produits d'entretien,Accessoires
+515,LL Mountain Seat/Saddle,LL Mountain Seat/Saddle 2,M,,27.12,15.0,Selles,Composants
+516,ML Mountain Seat/Saddle,ML Mountain Seat/Saddle 2,M,,39.14,15.0,Selles,Composants
+517,HL Mountain Seat/Saddle,HL Mountain Seat/Saddle 2,M,,52.64,15.0,Selles,Composants
+518,LL Road Seat/Saddle,LL Road Seat/Saddle 1,R,,27.12,15.0,Selles,Composants
+520,HL Road Seat/Saddle,HL Road Seat/Saddle 2,R,,52.64,15.0,Selles,Composants
+521,LL Touring Seat/Saddle,LL Touring Seat/Saddle,T,,27.12,15.0,Selles,Composants
+522,ML Touring Seat/Saddle,ML Touring Seat/Saddle,T,,39.14,15.0,Selles,Composants
+523,HL Touring Seat/Saddle,HL Touring Seat/Saddle,T,,52.64,15.0,Selles,Composants
+548,Touring Pedal,Touring Pedal,T,Silver/Black,80.99,13.0,Pédales,Composants
+553,LL Touring Handlebars,LL Touring Handlebars,T,,46.09,4.0,Guidons,Composants
+554,HL Touring Handlebars,HL Touring Handlebars,T,,91.57,4.0,Guidons,Composants
+559,Chain,Chain,,Silver,20.24,7.0,Chaînes,Composants
+218,"Mountain Bike Socks, M",Mountain Bike Socks,M,White,9.5,23.0,Chaussettes,Vêtements
+219,"Mountain Bike Socks, L",Mountain Bike Socks,M,White,9.5,23.0,Chaussettes,Vêtements
+229,"Long-Sleeve Logo Jersey, M",Long-Sleeve Logo Jersey,S,Multi,48.07,21.0,Maillots,Vêtements
+230,"Long-Sleeve Logo Jersey, M",Long-Sleeve Logo Jersey,S,Multi,48.07,21.0,Maillots,Vêtements
+231,"Long-Sleeve Logo Jersey, M",Long-Sleeve Logo Jersey,S,Multi,49.99,21.0,Maillots,Vêtements
+232,"Long-Sleeve Logo Jersey, L",Long-Sleeve Logo Jersey,S,Multi,48.07,21.0,Maillots,Vêtements
+233,"Long-Sleeve Logo Jersey, L",Long-Sleeve Logo Jersey,S,Multi,48.07,21.0,Maillots,Vêtements
+234,"Long-Sleeve Logo Jersey, L",Long-Sleeve Logo Jersey,S,Multi,49.99,21.0,Maillots,Vêtements
+235,"Long-Sleeve Logo Jersey, XL",Long-Sleeve Logo Jersey,S,Multi,48.07,21.0,Maillots,Vêtements
+236,"Long-Sleeve Logo Jersey, XL",Long-Sleeve Logo Jersey,S,Multi,48.07,21.0,Maillots,Vêtements
+237,"Long-Sleeve Logo Jersey, XL",Long-Sleeve Logo Jersey,S,Multi,49.99,21.0,Maillots,Vêtements
+445,"Men's Sports Shorts, S",Men's Sports Shorts,S,Black,59.99,22.0,Shorts,Vêtements
+453,"Men's Sports Shorts, M",Men's Sports Shorts,S,Black,59.99,22.0,Shorts,Vêtements
+454,"Men's Sports Shorts, L",Men's Sports Shorts,S,Black,59.99,22.0,Shorts,Vêtements
+456,"Women's Tights, S",Women's Tights,S,Black,74.99,24.0,Collants,Vêtements
+457,"Women's Tights, M",Women's Tights,S,Black,74.99,24.0,Collants,Vêtements
+458,"Women's Tights, L",Women's Tights,S,Black,74.99,24.0,Collants,Vêtements
+459,"Men's Bib-Shorts, S",Men's Bib-Shorts,S,Multi,89.99,18.0,Cuissards,Vêtements
+460,"Men's Bib-Shorts, M",Men's Bib-Shorts,S,Multi,89.99,18.0,Cuissards,Vêtements
+461,"Men's Bib-Shorts, L",Men's Bib-Shorts,S,Multi,89.99,18.0,Cuissards,Vêtements
+462,"Half-Finger Gloves, S",Half-Finger Gloves,S,Black,23.55,20.0,Gants,Vêtements
+463,"Half-Finger Gloves, S",Half-Finger Gloves,S,Black,24.49,20.0,Gants,Vêtements
+464,"Half-Finger Gloves, M",Half-Finger Gloves,S,Black,23.55,20.0,Gants,Vêtements
+465,"Half-Finger Gloves, M",Half-Finger Gloves,S,Black,24.49,20.0,Gants,Vêtements
+466,"Half-Finger Gloves, L",Half-Finger Gloves,S,Black,23.55,20.0,Gants,Vêtements
+467,"Half-Finger Gloves, L",Half-Finger Gloves,S,Black,24.49,20.0,Gants,Vêtements
+468,"Full-Finger Gloves, S",Full-Finger Gloves,M,Black,37.99,20.0,Gants,Vêtements
+469,"Full-Finger Gloves, M",Full-Finger Gloves,M,Black,37.99,20.0,Gants,Vêtements
+470,"Full-Finger Gloves, L",Full-Finger Gloves,M,Black,37.99,20.0,Gants,Vêtements
+471,"Classic Vest, S",Classic Vest,S,Blue,63.5,25.0,Gilets,Vêtements
+472,"Classic Vest, M",Classic Vest,S,Blue,63.5,25.0,Gilets,Vêtements
+473,"Classic Vest, L",Classic Vest,S,Blue,63.5,25.0,Gilets,Vêtements
+474,"Women's Mountain Shorts, S",Women's Mountain Shorts,M,Black,69.99,22.0,Shorts,Vêtements
+475,"Women's Mountain Shorts, M",Women's Mountain Shorts,M,Black,69.99,22.0,Shorts,Vêtements
+476,"Women's Mountain Shorts, L",Women's Mountain Shorts,M,Black,69.99,22.0,Shorts,Vêtements
+481,"Racing Socks, M",Racing Socks,R,White,8.99,23.0,Chaussettes,Vêtements
+482,"Racing Socks, L",Racing Socks,R,White,8.99,23.0,Chaussettes,Vêtements
+487,Hydration Pack - 70 oz.,Hydration Pack,S,Silver,54.99,32.0,Sacs d'hydratation,Accessoires
+488,"Short-Sleeve Classic Jersey, S",Short-Sleeve Classic Jersey,S,Yellow,53.99,21.0,Maillots,Vêtements
+490,"Short-Sleeve Classic Jersey, L",Short-Sleeve Classic Jersey,S,Yellow,53.99,21.0,Maillots,Vêtements
+491,"Short-Sleeve Classic Jersey, XL",Short-Sleeve Classic Jersey,S,Yellow,53.99,21.0,Maillots,Vêtements
+414,ML Road Front Wheel,ML Road Front Wheel,R,Black,248.39,17.0,Roues,Composants
+415,HL Road Front Wheel,HL Road Front Wheel,R,Black,330.06,17.0,Roues,Composants
+422,LL Road Rear Wheel,LL Road Rear Wheel,R,Black,112.57,17.0,Roues,Composants
+423,ML Road Rear Wheel,ML Road Rear Wheel,R,Black,275.39,17.0,Roues,Composants
+424,HL Road Rear Wheel,HL Road Rear Wheel,R,Black,357.06,17.0,Roues,Composants
+501,Rear Derailleur,Rear Derailleur,,Silver,121.46,9.0,Dérailleurs,Composants
+514,Rear Brakes,Rear Brakes,,Silver,106.5,6.0,Freins,Composants
+542,LL Mountain Pedal,LL Mountain Pedal,M,Silver/Black,40.49,13.0,Pédales,Composants
+543,ML Mountain Pedal,ML Mountain Pedal,M,Silver/Black,62.09,13.0,Pédales,Composants
+544,HL Mountain Pedal,HL Mountain Pedal,M,Silver/Black,80.99,13.0,Pédales,Composants
+545,LL Road Pedal,LL Road Pedal,R,Silver/Black,40.49,13.0,Pédales,Composants
+546,ML Road Pedal,ML Road Pedal,R,Silver/Black,62.09,13.0,Pédales,Composants
+547,HL Road Pedal,HL Road Pedal,R,Silver/Black,80.99,13.0,Pédales,Composants
+552,Front Derailleur,Front Derailleur,,Silver,91.49,9.0,Dérailleurs,Composants
+555,Front Brakes,Front Brakes,,Silver,106.5,6.0,Freins,Composants
+556,LL Crankset,LL Crankset,,Black,175.49,8.0,Pédaliers,Composants
+557,ML Crankset,ML Crankset,,Black,256.49,8.0,Pédaliers,Composants
+558,HL Crankset,HL Crankset,,Black,404.99,8.0,Pédaliers,Composants
+601,LL Bottom Bracket,LL Bottom Bracket,,,53.99,5.0,Boîtiers de pédalier,Composants
+603,HL Bottom Bracket,HL Bottom Bracket,,,121.49,5.0,Boîtiers de pédalier,Composants
+381,"Road-550-W Yellow, 38",Road-550-W,R,Yellow,1000.44,2.0,Vélos de route,Vélos
+382,"Road-550-W Yellow, 38",Road-550-W,R,Yellow,1120.49,2.0,Vélos de route,Vélos
+383,"Road-550-W Yellow, 40",Road-550-W,R,Yellow,1000.44,2.0,Vélos de route,Vélos
+384,"Road-550-W Yellow, 40",Road-550-W,R,Yellow,1120.49,2.0,Vélos de route,Vélos
+385,"Road-550-W Yellow, 42",Road-550-W,R,Yellow,1000.44,2.0,Vélos de route,Vélos
+386,"Road-550-W Yellow, 42",Road-550-W,R,Yellow,1120.49,2.0,Vélos de route,Vélos
+387,"Road-550-W Yellow, 44",Road-550-W,R,Yellow,1000.44,2.0,Vélos de route,Vélos
+388,"Road-550-W Yellow, 44",Road-550-W,R,Yellow,1120.49,2.0,Vélos de route,Vélos
+389,"Road-550-W Yellow, 48",Road-550-W,R,Yellow,1000.44,2.0,Vélos de route,Vélos
+390,"Road-550-W Yellow, 48",Road-550-W,R,Yellow,1120.49,2.0,Vélos de route,Vélos
+417,"ML Road Frame-W - Yellow, 38",ML Road Frame-W,R,Yellow,540.75,14.0,Cadres route,Composants
+418,"ML Road Frame-W - Yellow, 38",ML Road Frame-W,R,Yellow,594.83,14.0,Cadres route,Composants
+429,"ML Road Frame-W - Yellow, 40",ML Road Frame-W,R,Yellow,540.75,14.0,Cadres route,Composants
+430,"ML Road Frame-W - Yellow, 40",ML Road Frame-W,R,Yellow,594.83,14.0,Cadres route,Composants
+433,"ML Road Frame-W - Yellow, 44",ML Road Frame-W,R,Yellow,540.75,14.0,Cadres route,Composants
+434,"ML Road Frame-W - Yellow, 44",ML Road Frame-W,R,Yellow,594.83,14.0,Cadres route,Composants
+435,"ML Road Frame-W - Yellow, 48",ML Road Frame-W,R,Yellow,540.75,14.0,Cadres route,Composants
+436,"ML Road Frame-W - Yellow, 48",ML Road Frame-W,R,Yellow,594.83,14.0,Cadres route,Composants
+511,"ML Mountain Frame-W - Silver, 40",ML Mountain Frame-W,M,Silver,364.09,12.0,Cadres VTT,Composants
+512,"ML Mountain Frame-W - Silver, 42",ML Mountain Frame-W,M,Silver,364.09,12.0,Cadres VTT,Composants
+513,"ML Mountain Frame-W - Silver, 46",ML Mountain Frame-W,M,Silver,364.09,12.0,Cadres VTT,Composants
+549,"ML Mountain Frame-W - Silver, 38",ML Mountain Frame-W,M,Silver,364.09,12.0,Cadres VTT,Composants
+580,"Road-350-W Yellow, 40",Road-350-W,R,Yellow,1700.99,2.0,Vélos de route,Vélos
+581,"Road-350-W Yellow, 42",Road-350-W,R,Yellow,1700.99,2.0,Vélos de route,Vélos
+582,"Road-350-W Yellow, 44",Road-350-W,R,Yellow,1700.99,2.0,Vélos de route,Vélos
+583,"Road-350-W Yellow, 48",Road-350-W,R,Yellow,1700.99,2.0,Vélos de route,Vélos
+587,"Mountain-400-W Silver, 38",Mountain-400-W,M,Silver,769.49,1.0,Vélos VTT,Vélos
+588,"Mountain-400-W Silver, 40",Mountain-400-W,M,Silver,769.49,1.0,Vélos VTT,Vélos
+589,"Mountain-400-W Silver, 42",Mountain-400-W,M,Silver,769.49,1.0,Vélos VTT,Vélos
+590,"Mountain-400-W Silver, 46",Mountain-400-W,M,Silver,769.49,1.0,Vélos VTT,Vélos
+238,"HL Road Frame - Red, 62",HL Road Frame,R,Red,1263.46,14.0,Cadres route,Composants
+239,"HL Road Frame - Red, 62",HL Road Frame,R,Red,1301.36,14.0,Cadres route,Composants
+240,"HL Road Frame - Red, 62",HL Road Frame,R,Red,1431.5,14.0,Cadres route,Composants
+241,"HL Road Frame - Red, 44",HL Road Frame,R,Red,1263.46,14.0,Cadres route,Composants
+242,"HL Road Frame - Red, 44",HL Road Frame,R,Red,1301.36,14.0,Cadres route,Composants
+243,"HL Road Frame - Red, 44",HL Road Frame,R,Red,1431.5,14.0,Cadres route,Composants
+245,"HL Road Frame - Red, 48",HL Road Frame,R,Red,1301.36,14.0,Cadres route,Composants
+246,"HL Road Frame - Red, 48",HL Road Frame,R,Red,1431.5,14.0,Cadres route,Composants
+253,"LL Road Frame - Black, 58",LL Road Frame,R,Black,297.63,14.0,Cadres route,Composants
+254,"LL Road Frame - Black, 58",LL Road Frame,R,Black,306.56,14.0,Cadres route,Composants
+255,"LL Road Frame - Black, 58",LL Road Frame,R,Black,337.22,14.0,Cadres route,Composants
+256,"LL Road Frame - Black, 60",LL Road Frame,R,Black,297.63,14.0,Cadres route,Composants
+257,"LL Road Frame - Black, 60",LL Road Frame,R,Black,306.56,14.0,Cadres route,Composants
+258,"LL Road Frame - Black, 60",LL Road Frame,R,Black,337.22,14.0,Cadres route,Composants
+262,"LL Road Frame - Red, 44",LL Road Frame,R,Red,306.56,14.0,Cadres route,Composants
+263,"LL Road Frame - Red, 44",LL Road Frame,R,Red,337.22,14.0,Cadres route,Composants
+264,"LL Road Frame - Red, 48",LL Road Frame,R,Red,306.56,14.0,Cadres route,Composants
+265,"LL Road Frame - Red, 48",LL Road Frame,R,Red,337.22,14.0,Cadres route,Composants
+266,"LL Road Frame - Red, 52",LL Road Frame,R,Red,306.56,14.0,Cadres route,Composants
+267,"LL Road Frame - Red, 52",LL Road Frame,R,Red,337.22,14.0,Cadres route,Composants
+270,"LL Road Frame - Red, 60",LL Road Frame,R,Red,306.56,14.0,Cadres route,Composants
+271,"LL Road Frame - Red, 60",LL Road Frame,R,Red,337.22,14.0,Cadres route,Composants
+272,"LL Road Frame - Red, 62",LL Road Frame,R,Red,306.56,14.0,Cadres route,Composants
+273,"LL Road Frame - Red, 62",LL Road Frame,R,Red,337.22,14.0,Cadres route,Composants
+275,"ML Road Frame - Red, 48",ML Road Frame,R,Red,594.83,14.0,Cadres route,Composants
+276,"ML Road Frame - Red, 52",ML Road Frame,R,Red,594.83,14.0,Cadres route,Composants
+279,"LL Road Frame - Black, 44",LL Road Frame,R,Black,297.63,14.0,Cadres route,Composants
+280,"LL Road Frame - Black, 44",LL Road Frame,R,Black,306.56,14.0,Cadres route,Composants
+281,"LL Road Frame - Black, 44",LL Road Frame,R,Black,337.22,14.0,Cadres route,Composants
+285,"LL Road Frame - Black, 52",LL Road Frame,R,Black,297.63,14.0,Cadres route,Composants
+286,"LL Road Frame - Black, 52",LL Road Frame,R,Black,306.56,14.0,Cadres route,Composants
+287,"LL Road Frame - Black, 52",LL Road Frame,R,Black,337.22,14.0,Cadres route,Composants
+288,"HL Mountain Frame - Silver, 42",HL Mountain Frame,M,Silver,1204.32,12.0,Cadres VTT,Composants
+289,"HL Mountain Frame - Silver, 42",HL Mountain Frame,M,Silver,1240.45,12.0,Cadres VTT,Composants
+290,"HL Mountain Frame - Silver, 42",HL Mountain Frame,M,Silver,1364.5,12.0,Cadres VTT,Composants
+292,"HL Mountain Frame - Silver, 48",HL Mountain Frame,M,Silver,1364.5,12.0,Cadres VTT,Composants
+293,"HL Mountain Frame - Silver, 46",HL Mountain Frame,M,Silver,1204.32,12.0,Cadres VTT,Composants
+294,"HL Mountain Frame - Silver, 46",HL Mountain Frame,M,Silver,1240.45,12.0,Cadres VTT,Composants
+295,"HL Mountain Frame - Silver, 46",HL Mountain Frame,M,Silver,1364.5,12.0,Cadres VTT,Composants
+296,"HL Mountain Frame - Black, 42",HL Mountain Frame,M,Black,1191.17,12.0,Cadres VTT,Composants
+297,"HL Mountain Frame - Black, 42",HL Mountain Frame,M,Black,1226.91,12.0,Cadres VTT,Composants
+298,"HL Mountain Frame - Black, 42",HL Mountain Frame,M,Black,1349.6,12.0,Cadres VTT,Composants
+299,"HL Mountain Frame - Black, 44",HL Mountain Frame,M,Black,1349.6,12.0,Cadres VTT,Composants
+300,"HL Mountain Frame - Black, 48",HL Mountain Frame,M,Black,1349.6,12.0,Cadres VTT,Composants
+304,"HL Mountain Frame - Black, 38",HL Mountain Frame,M,Black,1191.17,12.0,Cadres VTT,Composants
+305,"HL Mountain Frame - Black, 38",HL Mountain Frame,M,Black,1226.91,12.0,Cadres VTT,Composants
+306,"HL Mountain Frame - Black, 38",HL Mountain Frame,M,Black,1349.6,12.0,Cadres VTT,Composants
+307,"HL Mountain Frame - Silver, 38",HL Mountain Frame,M,Silver,1204.32,12.0,Cadres VTT,Composants
+308,"HL Mountain Frame - Silver, 38",HL Mountain Frame,M,Silver,1240.45,12.0,Cadres VTT,Composants
+309,"HL Mountain Frame - Silver, 38",HL Mountain Frame,M,Silver,1364.5,12.0,Cadres VTT,Composants
+310,"Road-150 Red, 62",Road-150,R,Red,3578.27,2.0,Vélos de route,Vélos
+311,"Road-150 Red, 44",Road-150,R,Red,3578.27,2.0,Vélos de route,Vélos
+312,"Road-150 Red, 48",Road-150,R,Red,3578.27,2.0,Vélos de route,Vélos
+313,"Road-150 Red, 52",Road-150,R,Red,3578.27,2.0,Vélos de route,Vélos
+314,"Road-150 Red, 56",Road-150,R,Red,3578.27,2.0,Vélos de route,Vélos
+315,"Road-450 Red, 58",Road-450,R,Red,1457.99,2.0,Vélos de route,Vélos
+316,"Road-450 Red, 60",Road-450,R,Red,1457.99,2.0,Vélos de route,Vélos
+317,"Road-450 Red, 44",Road-450,R,Red,1457.99,2.0,Vélos de route,Vélos
+318,"Road-450 Red, 48",Road-450,R,Red,1457.99,2.0,Vélos de route,Vélos
+319,"Road-450 Red, 52",Road-450,R,Red,1457.99,2.0,Vélos de route,Vélos
+320,"Road-650 Red, 58",Road-650,R,Red,699.1,2.0,Vélos de route,Vélos
+321,"Road-650 Red, 58",Road-650,R,Red,782.99,2.0,Vélos de route,Vélos
+322,"Road-650 Red, 60",Road-650,R,Red,699.1,2.0,Vélos de route,Vélos
+323,"Road-650 Red, 60",Road-650,R,Red,782.99,2.0,Vélos de route,Vélos
+324,"Road-650 Red, 62",Road-650,R,Red,699.1,2.0,Vélos de route,Vélos
+325,"Road-650 Red, 62",Road-650,R,Red,782.99,2.0,Vélos de route,Vélos
+326,"Road-650 Red, 44",Road-650,R,Red,699.1,2.0,Vélos de route,Vélos
+327,"Road-650 Red, 44",Road-650,R,Red,782.99,2.0,Vélos de route,Vélos
+328,"Road-650 Red, 48",Road-650,R,Red,699.1,2.0,Vélos de route,Vélos
+329,"Road-650 Red, 48",Road-650,R,Red,782.99,2.0,Vélos de route,Vélos
+330,"Road-650 Red, 52",Road-650,R,Red,699.1,2.0,Vélos de route,Vélos
+331,"Road-650 Red, 52",Road-650,R,Red,782.99,2.0,Vélos de route,Vélos
+332,"Road-650 Black, 58",Road-650,R,Black,699.1,2.0,Vélos de route,Vélos
+333,"Road-650 Black, 58",Road-650,R,Black,782.99,2.0,Vélos de route,Vélos
+334,"Road-650 Black, 60",Road-650,R,Black,699.1,2.0,Vélos de route,Vélos
+335,"Road-650 Black, 60",Road-650,R,Black,782.99,2.0,Vélos de route,Vélos
+336,"Road-650 Black, 62",Road-650,R,Black,699.1,2.0,Vélos de route,Vélos
+337,"Road-650 Black, 62",Road-650,R,Black,782.99,2.0,Vélos de route,Vélos
+338,"Road-650 Black, 44",Road-650,R,Black,699.1,2.0,Vélos de route,Vélos
+339,"Road-650 Black, 44",Road-650,R,Black,782.99,2.0,Vélos de route,Vélos
+340,"Road-650 Black, 48",Road-650,R,Black,699.1,2.0,Vélos de route,Vélos
+341,"Road-650 Black, 48",Road-650,R,Black,782.99,2.0,Vélos de route,Vélos
+342,"Road-650 Black, 52",Road-650,R,Black,699.1,2.0,Vélos de route,Vélos
+343,"Road-650 Black, 52",Road-650,R,Black,782.99,2.0,Vélos de route,Vélos
+344,"Mountain-100 Silver, 38",Mountain-100,M,Silver,3399.99,1.0,Vélos VTT,Vélos
+345,"Mountain-100 Silver, 42",Mountain-100,M,Silver,3399.99,1.0,Vélos VTT,Vélos
+346,"Mountain-100 Silver, 44",Mountain-100,M,Silver,3399.99,1.0,Vélos VTT,Vélos
+347,"Mountain-100 Silver, 48",Mountain-100,M,Silver,3399.99,1.0,Vélos VTT,Vélos
+348,"Mountain-100 Black, 38",Mountain-100,M,Black,3374.99,1.0,Vélos VTT,Vélos
+349,"Mountain-100 Black, 42",Mountain-100,M,Black,3374.99,1.0,Vélos VTT,Vélos
+350,"Mountain-100 Black, 44",Mountain-100,M,Black,3374.99,1.0,Vélos VTT,Vélos
+351,"Mountain-100 Black, 48",Mountain-100,M,Black,3374.99,1.0,Vélos VTT,Vélos
+352,"Mountain-200 Silver, 38",Mountain-200,M,Silver,2071.42,1.0,Vélos VTT,Vélos
+353,"Mountain-200 Silver, 38",Mountain-200,M,Silver,2319.99,1.0,Vélos VTT,Vélos
+354,"Mountain-200 Silver, 42",Mountain-200,M,Silver,2071.42,1.0,Vélos VTT,Vélos
+355,"Mountain-200 Silver, 42",Mountain-200,M,Silver,2319.99,1.0,Vélos VTT,Vélos
+356,"Mountain-200 Silver, 46",Mountain-200,M,Silver,2071.42,1.0,Vélos VTT,Vélos
+357,"Mountain-200 Silver, 46",Mountain-200,M,Silver,2319.99,1.0,Vélos VTT,Vélos
+358,"Mountain-200 Black, 38",Mountain-200,M,Black,2049.1,1.0,Vélos VTT,Vélos
+359,"Mountain-200 Black, 38",Mountain-200,M,Black,2294.99,1.0,Vélos VTT,Vélos
+360,"Mountain-200 Black, 42",Mountain-200,M,Black,2049.1,1.0,Vélos VTT,Vélos
+361,"Mountain-200 Black, 42",Mountain-200,M,Black,2294.99,1.0,Vélos VTT,Vélos
+362,"Mountain-200 Black, 46",Mountain-200,M,Black,2049.1,1.0,Vélos VTT,Vélos
+363,"Mountain-200 Black, 46",Mountain-200,M,Black,2294.99,1.0,Vélos VTT,Vélos
+364,"Mountain-300 Black, 38",Mountain-300,M,Black,1079.99,1.0,Vélos VTT,Vélos
+365,"Mountain-300 Black, 40",Mountain-300,M,Black,1079.99,1.0,Vélos VTT,Vélos
+366,"Mountain-300 Black, 44",Mountain-300,M,Black,1079.99,1.0,Vélos VTT,Vélos
+367,"Mountain-300 Black, 48",Mountain-300,M,Black,1079.99,1.0,Vélos VTT,Vélos
+368,"Road-250 Red, 44",Road-250,R,Red,2443.35,2.0,Vélos de route,Vélos
+369,"Road-250 Red, 48",Road-250,R,Red,2443.35,2.0,Vélos de route,Vélos
+370,"Road-250 Red, 52",Road-250,R,Red,2443.35,2.0,Vélos de route,Vélos
+371,"Road-250 Red, 58",Road-250,R,Red,2181.56,2.0,Vélos de route,Vélos
+372,"Road-250 Red, 58",Road-250,R,Red,2443.35,2.0,Vélos de route,Vélos
+373,"Road-250 Black, 44",Road-250,R,Black,2181.56,2.0,Vélos de route,Vélos
+374,"Road-250 Black, 44",Road-250,R,Black,2443.35,2.0,Vélos de route,Vélos
+375,"Road-250 Black, 48",Road-250,R,Black,2181.56,2.0,Vélos de route,Vélos
+376,"Road-250 Black, 48",Road-250,R,Black,2443.35,2.0,Vélos de route,Vélos
+377,"Road-250 Black, 52",Road-250,R,Black,2181.56,2.0,Vélos de route,Vélos
+378,"Road-250 Black, 52",Road-250,R,Black,2443.35,2.0,Vélos de route,Vélos
+379,"Road-250 Black, 58",Road-250,R,Black,2181.56,2.0,Vélos de route,Vélos
+380,"Road-250 Black, 58",Road-250,R,Black,2443.35,2.0,Vélos de route,Vélos
+409,"ML Mountain Frame - Black, 38",ML Mountain Frame-W,M,Black,348.76,12.0,Cadres VTT,Composants
+426,"ML Mountain Frame - Black, 40",ML Mountain Frame,M,Black,348.76,12.0,Cadres VTT,Composants
+427,"ML Mountain Frame - Black, 44",ML Mountain Frame,M,Black,348.76,12.0,Cadres VTT,Composants
+428,"ML Mountain Frame - Black, 48",ML Mountain Frame,M,Black,348.76,12.0,Cadres VTT,Composants
+439,"HL Road Frame - Black, 44",HL Road Frame,R,Black,1301.36,14.0,Cadres route,Composants
+440,"HL Road Frame - Black, 44",HL Road Frame,R,Black,1431.5,14.0,Cadres route,Composants
+441,"HL Road Frame - Black, 48",HL Road Frame,R,Black,1301.36,14.0,Cadres route,Composants
+442,"HL Road Frame - Black, 48",HL Road Frame,R,Black,1431.5,14.0,Cadres route,Composants
+492,"HL Touring Frame - Yellow, 60",HL Touring Frame,T,Yellow,1003.91,16.0,Cadres randonnée,Composants
+493,"LL Touring Frame - Yellow, 62",LL Touring Frame,T,Yellow,333.42,16.0,Cadres randonnée,Composants
+494,"HL Touring Frame - Yellow, 46",HL Touring Frame,T,Yellow,1003.91,16.0,Cadres randonnée,Composants
+495,"HL Touring Frame - Yellow, 50",HL Touring Frame,T,Yellow,1003.91,16.0,Cadres randonnée,Composants
+496,"HL Touring Frame - Yellow, 54",HL Touring Frame,T,Yellow,1003.91,16.0,Cadres randonnée,Composants
+497,"HL Touring Frame - Blue, 46",HL Touring Frame,T,Blue,1003.91,16.0,Cadres randonnée,Composants
+498,"HL Touring Frame - Blue, 50",HL Touring Frame,T,Blue,1003.91,16.0,Cadres randonnée,Composants
+499,"HL Touring Frame - Blue, 54",HL Touring Frame,T,Blue,1003.91,16.0,Cadres randonnée,Composants
+500,"HL Touring Frame - Blue, 60",HL Touring Frame,T,Blue,1003.91,16.0,Cadres randonnée,Composants
+502,"LL Touring Frame - Blue, 50",LL Touring Frame,T,Blue,333.42,16.0,Cadres randonnée,Composants
+503,"LL Touring Frame - Blue, 54",LL Touring Frame,T,Blue,333.42,16.0,Cadres randonnée,Composants
+504,"LL Touring Frame - Blue, 58",LL Touring Frame,T,Blue,333.42,16.0,Cadres randonnée,Composants
+505,"LL Touring Frame - Blue, 62",LL Touring Frame,T,Blue,333.42,16.0,Cadres randonnée,Composants
+506,"LL Touring Frame - Yellow, 44",LL Touring Frame,T,Yellow,333.42,16.0,Cadres randonnée,Composants
+507,"LL Touring Frame - Yellow, 50",LL Touring Frame,T,Yellow,333.42,16.0,Cadres randonnée,Composants
+509,"LL Touring Frame - Yellow, 58",LL Touring Frame,T,Yellow,333.42,16.0,Cadres randonnée,Composants
+510,"LL Touring Frame - Blue, 44",LL Touring Frame,T,Blue,333.42,16.0,Cadres randonnée,Composants
+524,"LL Mountain Frame - Silver, 42",LL Mountain Frame,M,Silver,264.05,12.0,Cadres VTT,Composants
+525,"LL Mountain Frame - Silver, 44",LL Mountain Frame,M,Silver,264.05,12.0,Cadres VTT,Composants
+526,"LL Mountain Frame - Silver, 48",LL Mountain Frame,M,Silver,264.05,12.0,Cadres VTT,Composants
+527,"LL Mountain Frame - Silver, 52",LL Mountain Frame,M,Silver,264.05,12.0,Cadres VTT,Composants
+531,"LL Mountain Frame - Black, 42",LL Mountain Frame,M,Black,249.79,12.0,Cadres VTT,Composants
+532,"LL Mountain Frame - Black, 44",LL Mountain Frame,M,Black,249.79,12.0,Cadres VTT,Composants
+533,"LL Mountain Frame - Black, 48",LL Mountain Frame,M,Black,249.79,12.0,Cadres VTT,Composants
+534,"LL Mountain Frame - Black, 52",LL Mountain Frame,M,Black,249.79,12.0,Cadres VTT,Composants
+550,"LL Mountain Frame - Black, 40",LL Mountain Frame,M,Black,249.79,12.0,Cadres VTT,Composants
+551,"LL Mountain Frame - Silver, 40",LL Mountain Frame,M,Silver,264.05,12.0,Cadres VTT,Composants
+560,"Touring-2000 Blue, 60",Touring-2000,T,Blue,1214.85,3.0,Vélos de randonnée,Vélos
+561,"Touring-1000 Yellow, 46",Touring-1000,T,Yellow,2384.07,3.0,Vélos de randonnée,Vélos
+562,"Touring-1000 Yellow, 50",Touring-1000,T,Yellow,2384.07,3.0,Vélos de randonnée,Vélos
+563,"Touring-1000 Yellow, 54",Touring-1000,T,Yellow,2384.07,3.0,Vélos de randonnée,Vélos
+564,"Touring-1000 Yellow, 60",Touring-1000,T,Yellow,2384.07,3.0,Vélos de randonnée,Vélos
+565,"Touring-3000 Blue, 54",Touring-3000,T,Blue,742.35,3.0,Vélos de randonnée,Vélos
+566,"Touring-3000 Blue, 58",Touring-3000,T,Blue,742.35,3.0,Vélos de randonnée,Vélos
+567,"Touring-3000 Blue, 62",Touring-3000,T,Blue,742.35,3.0,Vélos de randonnée,Vélos
+568,"Touring-3000 Yellow, 44",Touring-3000,T,Yellow,742.35,3.0,Vélos de randonnée,Vélos
+569,"Touring-3000 Yellow, 50",Touring-3000,T,Yellow,742.35,3.0,Vélos de randonnée,Vélos
+570,"Touring-3000 Yellow, 54",Touring-3000,T,Yellow,742.35,3.0,Vélos de randonnée,Vélos
+571,"Touring-3000 Yellow, 58",Touring-3000,T,Yellow,742.35,3.0,Vélos de randonnée,Vélos
+572,"Touring-3000 Yellow, 62",Touring-3000,T,Yellow,742.35,3.0,Vélos de randonnée,Vélos
+573,"Touring-1000 Blue, 46",Touring-1000,T,Blue,2384.07,3.0,Vélos de randonnée,Vélos
+574,"Touring-1000 Blue, 50",Touring-1000,T,Blue,2384.07,3.0,Vélos de randonnée,Vélos
+575,"Touring-1000 Blue, 54",Touring-1000,T,Blue,2384.07,3.0,Vélos de randonnée,Vélos
+576,"Touring-1000 Blue, 60",Touring-1000,T,Blue,2384.07,3.0,Vélos de randonnée,Vélos
+577,"Touring-2000 Blue, 46",Touring-2000,T,Blue,1214.85,3.0,Vélos de randonnée,Vélos
+578,"Touring-2000 Blue, 50",Touring-2000,T,Blue,1214.85,3.0,Vélos de randonnée,Vélos
+579,"Touring-2000 Blue, 54",Touring-2000,T,Blue,1214.85,3.0,Vélos de randonnée,Vélos
+584,"Road-750 Black, 58",Road-750,R,Black,539.99,2.0,Vélos de route,Vélos
+585,"Touring-3000 Blue, 44",Touring-3000,T,Blue,742.35,3.0,Vélos de randonnée,Vélos
+586,"Touring-3000 Blue, 50",Touring-3000,T,Blue,742.35,3.0,Vélos de randonnée,Vélos
+591,"Mountain-500 Silver, 40",Mountain-500,M,Silver,564.99,1.0,Vélos VTT,Vélos
+592,"Mountain-500 Silver, 42",Mountain-500,M,Silver,564.99,1.0,Vélos VTT,Vélos
+593,"Mountain-500 Silver, 44",Mountain-500,M,Silver,564.99,1.0,Vélos VTT,Vélos
+594,"Mountain-500 Silver, 48",Mountain-500,M,Silver,564.99,1.0,Vélos VTT,Vélos
+595,"Mountain-500 Silver, 52",Mountain-500,M,Silver,564.99,1.0,Vélos VTT,Vélos
+596,"Mountain-500 Black, 40",Mountain-500,M,Black,539.99,1.0,Vélos VTT,Vélos
+597,"Mountain-500 Black, 42",Mountain-500,M,Black,539.99,1.0,Vélos VTT,Vélos
+598,"Mountain-500 Black, 44",Mountain-500,M,Black,539.99,1.0,Vélos VTT,Vélos
+599,"Mountain-500 Black, 48",Mountain-500,M,Black,539.99,1.0,Vélos VTT,Vélos
+600,"Mountain-500 Black, 52",Mountain-500,M,Black,539.99,1.0,Vélos VTT,Vélos
+604,"Road-750 Black, 44",Road-750,R,Black,539.99,2.0,Vélos de route,Vélos
+605,"Road-750 Black, 48",Road-750,R,Black,539.99,2.0,Vélos de route,Vélos
+606,"Road-750 Black, 52",Road-750,R,Black,539.99,2.0,Vélos de route,Vélos

@@ -1,0 +1,54 @@
+// ===========================================================================
+// Mesures DAX - Projet 12 (avis clients). A creer dans une table "_Mesures" vide.
+// Noms de colonnes = ceux des CSV du dossier powerbi/. NON TESTE dans Power BI Desktop
+// (le .pbix n'a pas pu etre produit dans cet environnement) : voir GUIDE_POWER_BI.md.
+// ===========================================================================
+
+// ---- Satisfaction (grain : avis) ------------------------------------------
+Nb avis            = DISTINCTCOUNT ( FactReviews[ReviewID] )
+Note moyenne       = AVERAGE ( FactReviews[Rating] )
+% Positifs         = DIVIDE ( SUM ( FactReviews[IsPositive] ), [Nb avis] )
+% Négatifs         = DIVIDE ( SUM ( FactReviews[IsNegative] ), [Nb avis] )
+% Neutres          = 1 - [% Positifs] - [% Négatifs]
+Net sentiment      = ( [% Positifs] - [% Négatifs] ) * 100          // type "NPS simplifie", PAS un vrai NPS
+Score sentiment    = AVERAGE ( FactReviews[SentimentScore] )         // -1 .. +1
+
+// ---- Themes (grain : phrase/mention) ---------------------------------------
+Nb mentions        = COUNTROWS ( FactReviewThemes )
+Part du thème      = DIVIDE ( [Nb mentions], CALCULATE ( [Nb mentions], REMOVEFILTERS ( DimTheme ) ) )
+% Mentions négatives = DIVIDE ( SUM ( FactReviewThemes[IsNegative] ), [Nb mentions] )
+% Mentions positives = DIVIDE ( SUM ( FactReviewThemes[IsPositive] ), [Nb mentions] )
+Score thème        = AVERAGE ( FactReviewThemes[SentimentScore] )
+
+// ---- Garde-fou statistique : a afficher a cote de tout indicateur -----------
+Fiabilité = 
+VAR n = [Nb avis]
+RETURN SWITCH ( TRUE (), n = 0, BLANK (), n < 10, "⚠ très faible (<10)", n < 30, "~ indicatif (<30)", "OK" )
+Score thème (si fiable) = IF ( [Nb mentions] >= 30, [Score thème] )
+% Négatifs (si fiable)   = IF ( [Nb avis] >= 30, [% Négatifs] )
+
+// ---- Ventes ----------------------------------------------------------------
+CA                 = SUM ( FactSales[SalesAmount] )
+Marge              = SUM ( FactSales[SalesAmount] ) - SUM ( FactSales[TotalProductCost] )
+Taux de marge      = DIVIDE ( [Marge], [CA] )
+Nb lignes de vente = COUNTROWS ( FactSales )
+Couverture avis    = DIVIDE ( [Nb avis], [Nb lignes de vente] )      // faible par construction (~1,4 %)
+Lignes sans date d'expedition = CALCULATE ( COUNTROWS ( FactSales ), FactSales[ShipDateMissing] = TRUE () )
+
+// ---- Lien satisfaction <-> ventes (a lire en correlation, pas en causalite) --
+CA des lignes avec avis = CALCULATE ( [CA], FILTER ( FactSales, CALCULATE ( COUNTROWS ( FactReviews ) ) > 0 ) )
+Revendeurs à risque =
+    COUNTROWS ( FILTER ( VALUES ( DimReseller[ResellerKey] ), [Nb avis] >= 3 && [% Négatifs] >= 0.5 ) )
+
+// ---- Objectifs : NE PAS calculer de "taux d'atteinte" -----------------------
+// Les objectifs de ResellerSalesTargets.csv sont ~200x inferieurs au CA (unite/perimetre inconnus).
+Objectif (brut)    = SUM ( Targets[Target] )
+
+// ---- Evolution temporelle (utiliser DimReviewDate, relation active vers FactReviews) ----
+// Placer DimReviewDate[YearMonth] sur l'axe : les avis sont alors ventiles par DATE D'AVIS.
+// Les ventes se ventilent par DimDate (date de commande). Ne pas melanger les deux axes dans un meme visuel.
+
+// ---- Comparaison des moteurs (colonnes SentimentLabelLexique et AccordMLLexique de FactReviews) ----
+% Négatifs (lexique) = DIVIDE ( COUNTROWS ( FILTER ( FactReviews, FactReviews[SentimentLabelLexique] = "Négatif" ) ), [Nb avis] )
+% Positifs (lexique) = DIVIDE ( COUNTROWS ( FILTER ( FactReviews, FactReviews[SentimentLabelLexique] = "Positif" ) ), [Nb avis] )
+Accord ML / Lexique = AVERAGE ( FactReviews[AccordMLLexique] )

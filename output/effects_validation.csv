@@ -1,0 +1,27 @@
+﻿test,groupe,theme,n_phrases,score_moyen,effet_plante,fiable
+Support par commercial,281,Support,45,-0.261,-1.0,
+Support par commercial,282,Support,63,0.228,0.0,
+Support par commercial,283,Support,63,0.297,0.0,
+Support par commercial,284,Support,28,0.477,0.8,
+Support par commercial,285,Support,40,-0.21,-1.0,
+Support par commercial,286,Support,9,0.661,0.0,
+Support par commercial,287,Support,31,0.143,0.0,
+Support par commercial,288,Support,36,0.2,0.0,
+Support par commercial,289,Support,19,0.473,0.0,
+Support par commercial,291,Support,40,0.185,0.0,
+Support par commercial,292,Support,25,0.046,0.0,
+Support par commercial,293,Support,16,0.263,0.0,
+Support par commercial,295,Support,13,0.03,0.0,
+Support par commercial,296,Support,19,0.513,0.8,
+Livraison par groupe territoire,Europe,Livraison,70,-0.152,-0.5,True
+Livraison par groupe territoire,North America,Livraison,429,0.191,0.0,True
+Livraison par groupe territoire,Pacific,Livraison,21,-0.059,-0.4,False
+Livraison / ShipDate manquante,False,Livraison,506,0.14,0.0,True
+Livraison / ShipDate manquante,True,Livraison,14,-0.036,-0.7,False
+Prix par catégorie,Accessoires,Prix,3,0.414,0.3,False
+Prix par catégorie,Composants,Prix,66,0.029,-0.1,True
+Prix par catégorie,Vélos,Prix,391,-0.228,-0.55,True
+Prix par catégorie,Vêtements,Prix,15,0.269,0.2,False
+Qualité (sous-catégories plantées),Vélos VTT,Qualité,186,-0.26,-0.6,True
+Qualité (sous-catégories plantées),Vélos de route,Qualité,228,0.397,0.4,True
+Qualité (référence : toutes les autres),autres,Qualité,184,0.103,0.0,True

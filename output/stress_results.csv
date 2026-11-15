@@ -1,0 +1,25 @@
+﻿SentenceText,PolarityTrue,ThemeTrue,lex_sent,ml_sent,lex_theme,ml_theme
+Le tarif est franchement abusif pour cette gamme,neg,Prix,neg,neg,Prix,Prix
+"On ne peut pas se plaindre du prix, il est plutôt bas",pos,Prix,pos,neg,Prix,Prix
+Remise de fin d'année très généreuse,pos,Prix,pos,pos,Prix,Prix
+Tarifs inchangés depuis l'an dernier,neu,Prix,neu,neu,Prix,Prix
+Le coût est dans la norme,neu,Prix,neu,neu,Prix,Prix
+Pas du tout satisfait du délai de livraison,neg,Livraison,neg,neg,Livraison,Livraison
+Le colis n'est jamais arrivé à temps,neg,Livraison,neg,neg,Livraison,Livraison
+"Jamais eu de problème avec les expéditions, c'est impeccable",pos,Livraison,pos,pos,Livraison,Livraison
+"Livraison express, nous avons été surpris",pos,Livraison,neu,pos,Livraison,Livraison
+Le conditionnement du colis était abîmé,neg,Livraison,neg,neg,Livraison,Livraison
+"Bravo pour le retard de deux semaines, vraiment du grand art",neg,Livraison,neg,neg,Livraison,Livraison
+Le cadre a rouillé après un mois,neg,Qualité,neg,neg,Qualité,Qualité
+"Fabrication soignée, les soudures sont superbes",pos,Qualité,pos,pos,Qualité,Qualité
+"Les freins sont corrects, rien de plus",neu,Qualité,neu,neu,Général,Qualité
+Les pneus crèvent au bout de trois sorties,neg,Qualité,neg,neg,Qualité,Qualité
+Le casque est robuste et confortable,pos,Qualité,pos,pos,Qualité,Qualité
+Notre conseiller est toujours disponible quand on l'appelle,pos,Support,pos,pos,Support,Support
+Personne ne rappelle jamais quand on laisse un message,neg,Support,neg,neg,Support,Support
+L'assistance technique est moyenne,neu,Support,neu,neu,Support,Support
+Le service après-vente nous a laissés tomber,neg,Support,neg,neg,Support,Support
+Notre commercial connaît parfaitement le catalogue,pos,Support,pos,pos,Support,Support
+"Franchement, on ne reviendra pas",neg,Général,neu,neg,Général,Général
+Une collaboration agréable de bout en bout,pos,Général,pos,pos,Général,Général
+"C'est bien, sans plus",neu,Général,neu,neu,Général,Qualité

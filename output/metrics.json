@@ -1,0 +1,217 @@
+{
+  "segmentation_match_rate": 1.0,
+  "n_train_sentences": 2048,
+  "n_test_sentences": 725,
+  "n_stress": 24,
+  "engine": "ml",
+  "sentiment_phrase_test": {
+    "lexique": {
+      "accuracy": 0.785,
+      "macro_f1": 0.754,
+      "n": 725
+    },
+    "ml_tfidf": {
+      "accuracy": 0.434,
+      "macro_f1": 0.437,
+      "n": 725
+    },
+    "ml": {
+      "accuracy": 0.743,
+      "macro_f1": 0.722,
+      "n": 725
+    }
+  },
+  "theme_phrase_test": {
+    "lexique": {
+      "accuracy": 0.997,
+      "macro_f1": 0.997,
+      "n": 725
+    },
+    "ml_tfidf": {
+      "accuracy": 0.75,
+      "macro_f1": 0.756,
+      "n": 725
+    },
+    "ml": {
+      "accuracy": 0.997,
+      "macro_f1": 0.997,
+      "n": 725
+    }
+  },
+  "sentiment_phrase_stress": {
+    "lexique": {
+      "accuracy": 0.917,
+      "macro_f1": 0.907,
+      "n": 24
+    },
+    "ml_tfidf": {
+      "accuracy": 0.708,
+      "macro_f1": 0.717,
+      "n": 24
+    },
+    "ml": {
+      "accuracy": 0.958,
+      "macro_f1": 0.965,
+      "n": 24
+    }
+  },
+  "theme_phrase_stress": {
+    "lexique": {
+      "accuracy": 0.958,
+      "macro_f1": 0.949,
+      "n": 24
+    },
+    "ml_tfidf": {
+      "accuracy": 0.667,
+      "macro_f1": 0.673,
+      "n": 24
+    },
+    "ml": {
+      "accuracy": 0.958,
+      "macro_f1": 0.942,
+      "n": 24
+    }
+  },
+  "controle_sens_inverse": {
+    "sentiment_phrase": {
+      "accuracy": 0.877,
+      "macro_f1": 0.86,
+      "n": 2048
+    },
+    "theme_phrase": {
+      "accuracy": 0.934,
+      "macro_f1": 0.941,
+      "n": 2048
+    }
+  },
+  "sentiment_avis": {
+    "lexique": {
+      "seuil": 0.175,
+      "train": {
+        "accuracy": 0.744,
+        "macro_f1": 0.744,
+        "n": 698
+      },
+      "test": {
+        "accuracy": 0.635,
+        "macro_f1": 0.622,
+        "n": 255
+      },
+      "confusion_test": [
+        [
+          33,
+          33,
+          3
+        ],
+        [
+          15,
+          50,
+          29
+        ],
+        [
+          1,
+          12,
+          79
+        ]
+      ]
+    },
+    "ml_tfidf": {
+      "seuil": 0.325,
+      "train": {
+        "accuracy": 0.838,
+        "macro_f1": 0.84,
+        "n": 698
+      },
+      "test": {
+        "accuracy": 0.318,
+        "macro_f1": 0.271,
+        "n": 255
+      },
+      "confusion_test": [
+        [
+          12,
+          40,
+          17
+        ],
+        [
+          19,
+          59,
+          16
+        ],
+        [
+          30,
+          52,
+          10
+        ]
+      ]
+    },
+    "ml": {
+      "seuil": 0.275,
+      "train": {
+        "accuracy": 0.781,
+        "macro_f1": 0.784,
+        "n": 698
+      },
+      "test": {
+        "accuracy": 0.576,
+        "macro_f1": 0.567,
+        "n": 255
+      },
+      "confusion_test": [
+        [
+          31,
+          28,
+          10
+        ],
+        [
+          19,
+          50,
+          25
+        ],
+        [
+          5,
+          21,
+          66
+        ]
+      ]
+    },
+    "ml_2niveaux": {
+      "train": {
+        "accuracy": 0.765,
+        "macro_f1": 0.766,
+        "n": 698
+      },
+      "test": {
+        "accuracy": 0.553,
+        "macro_f1": 0.548,
+        "n": 255
+      },
+      "confusion_test": [
+        [
+          38,
+          14,
+          17
+        ],
+        [
+          23,
+          39,
+          32
+        ],
+        [
+          6,
+          22,
+          64
+        ]
+      ]
+    },
+    "plafond_theorique": {
+      "accuracy": 0.835,
+      "note": "polarites de phrases parfaites -> bruit de la note"
+    }
+  },
+  "labels": [
+    "neg",
+    "neu",
+    "pos"
+  ]
+}

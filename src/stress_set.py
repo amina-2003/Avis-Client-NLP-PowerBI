@@ -1,0 +1,28 @@
+"""Jeu de test 'stress' : phrases ecrites a la main, INDEPENDANTES de la banque de generation
+(vocabulaire different, negations, ironie). Sert a mesurer la generalisation hors distribution."""
+STRESS = [  # (phrase, polarite, theme)
+("Le tarif est franchement abusif pour cette gamme","neg","Prix"),
+("On ne peut pas se plaindre du prix, il est plutôt bas","pos","Prix"),
+("Remise de fin d'année très généreuse","pos","Prix"),
+("Tarifs inchangés depuis l'an dernier","neu","Prix"),
+("Le coût est dans la norme","neu","Prix"),
+("Pas du tout satisfait du délai de livraison","neg","Livraison"),
+("Le colis n'est jamais arrivé à temps","neg","Livraison"),
+("Jamais eu de problème avec les expéditions, c'est impeccable","pos","Livraison"),
+("Livraison express, nous avons été surpris","pos","Livraison"),
+("Le conditionnement du colis était abîmé","neg","Livraison"),
+("Bravo pour le retard de deux semaines, vraiment du grand art","neg","Livraison"),
+("Le cadre a rouillé après un mois","neg","Qualité"),
+("Fabrication soignée, les soudures sont superbes","pos","Qualité"),
+("Les freins sont corrects, rien de plus","neu","Qualité"),
+("Les pneus crèvent au bout de trois sorties","neg","Qualité"),
+("Le casque est robuste et confortable","pos","Qualité"),
+("Notre conseiller est toujours disponible quand on l'appelle","pos","Support"),
+("Personne ne rappelle jamais quand on laisse un message","neg","Support"),
+("L'assistance technique est moyenne","neu","Support"),
+("Le service après-vente nous a laissés tomber","neg","Support"),
+("Notre commercial connaît parfaitement le catalogue","pos","Support"),
+("Franchement, on ne reviendra pas","neg","Général"),
+("Une collaboration agréable de bout en bout","pos","Général"),
+("C'est bien, sans plus","neu","Général"),
+]

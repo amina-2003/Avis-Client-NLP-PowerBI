@@ -1,0 +1,41 @@
+{
+ "support_corr_effet_plante_vs_score": 0.783,
+ "support_score_faibles_vs_forts": [
+  -0.235,
+  0.495
+ ],
+ "Livraison par groupe territoire": {
+  "Europe": -0.152,
+  "North America": 0.191,
+  "Pacific": -0.059
+ },
+ "Livraison / ShipDate manquante": {
+  "false": 0.14,
+  "true": -0.036
+ },
+ "Prix par catégorie": {
+  "Accessoires": 0.414,
+  "Composants": 0.029,
+  "Vélos": -0.228,
+  "Vêtements": 0.269
+ },
+ "Qualité (sous-catégories plantées)": {
+  "Vélos VTT": -0.26,
+  "Vélos de route": 0.397
+ },
+ "effectifs": {
+  "Livraison par groupe territoire|Europe": 70,
+  "Livraison par groupe territoire|North America": 429,
+  "Livraison par groupe territoire|Pacific": 21,
+  "Livraison / ShipDate manquante|False": 506,
+  "Livraison / ShipDate manquante|True": 14,
+  "Prix par catégorie|Accessoires": 3,
+  "Prix par catégorie|Composants": 66,
+  "Prix par catégorie|Vélos": 391,
+  "Prix par catégorie|Vêtements": 15,
+  "Qualité (sous-catégories plantées)|Vélos VTT": 186,
+  "Qualité (sous-catégories plantées)|Vélos de route": 228,
+  "Qualité (référence : toutes les autres)|autres": 184
+ },
+ "Qualité autres": 0.103
+}
